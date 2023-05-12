@@ -1,6 +1,6 @@
 ### Olá, eu sou Guilherme! Seja bem-vindo!
 
-- 🔭 Hoje busco trabalho na área de Ciência de Dados com foco em Machine Learning
+- 🔭 Tentando melhorar
 - 🌱 Sou estudante de Estatística do IME-USP
 <div align="center">
   <a href="https://github.com/Guilherme-matt">
